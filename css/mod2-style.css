@@ -44,15 +44,15 @@ h2{
   }  
 
   /********* Set up background color and text **********/
-  .chicken{
+  .chicken {
     background-color:#BE8540;         
     color: white;
     }
-   .beef{
+   .beef {
     background-color:#3333ff;
     color: white;  
    }
-   .sushi{
+   .sushi {
     background-color:#88CF45;
     color: white;   
    }
